@@ -23,7 +23,7 @@
 		"express-fileupload": "^0.4.0",
 		"express-rate-limit": "^2.11.0",
 		"fast-csv": "^2.4.0",
-		"json2csv": "^3.11.1",
+		"json2csv": "^6.0.0-alpha.2",
 		"mongodb": "^3.0.3",
 		"mongoose": "^5.13.20"
 	},
